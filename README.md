@@ -1,7 +1,8 @@
-SentinelShield
-==============================
+# SentinelShield - AI-Driven Anomaly Detection for Blockchain Security
 
-A short description of the project.
+## Description:
+SentinelShield is an innovative project aimed at enhancing blockchain security through cutting-edge AI technology. Leveraging self-supervised learning, this system is designed to detect anomalies in blockchain transactions, providing a robust defense against potential security threats.
+
 
 Project Organization
 ------------
@@ -54,4 +55,40 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+## Key Features:
+- **Self-Supervised Learning:** Harness the power of advanced AI techniques for anomaly detection, ensuring adaptability to evolving security landscapes.
+  
+- **Blockchain Transaction Analysis:** Dive deep into blockchain transactions to identify irregular patterns and potential threats to security.
+
+- **Real-time Monitoring:** Enable real-time monitoring of blockchain activities, allowing for swift responses to emerging security issues.
+
+- **User-Friendly Interface:** An intuitive interface for easy configuration and monitoring, making it accessible for both experts and beginners.
+
+## How to Use SentinelShield:
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/smn06/SentinelShield.git
+   cd SentinelShield
+   ```
+
+2. **Install Dependencies:**
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. **Configure Settings:**
+   - Adjust parameters in the configuration file to tailor SentinelShield to your specific blockchain environment.
+
+4. **Run SentinelShield:**
+   ```
+   python main.py
+   ```
+
+5. **Monitor Results:**
+   Access the web-based dashboard to monitor real-time anomaly detection results and take proactive security measures.
+
+
+## License:
+SentinelShield is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
